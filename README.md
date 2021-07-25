@@ -1,5 +1,5 @@
 # lavaplayer-natives-extra
-lavaplayer-natives-extra for IntelliJ IDEA, because IntelliJ IDEA gives problem with this plugin, problem like :- 
+lavaplayer-natives-extra for IntelliJ IDEA, because IntelliJ IDEA gives problem with this dependency, problem like :- 
 ```
 lavaplayer-natives-extra:1.3.13 was not found
 ```
