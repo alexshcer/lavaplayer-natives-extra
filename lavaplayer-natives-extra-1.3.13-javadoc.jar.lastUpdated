@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jul 24 19:52:52 IST 2021
+https\://dl.bintray.com/sedmelluq/com.sedmelluq/.error=Could not transfer artifact com.sedmelluq\:lavaplayer-natives-extra\:jar\:javadoc\:1.3.13 from/to bintray-sedmelluq-com.sedmelluq (https\://dl.bintray.com/sedmelluq/com.sedmelluq)\: Access denied to https\://dl.bintray.com/sedmelluq/com.sedmelluq/com/sedmelluq/lavaplayer-natives-extra/1.3.13/lavaplayer-natives-extra-1.3.13-javadoc.jar. Error code 403, Forbidden
+https\://m2.dv8tion.net/releases/.error=
+https\://jcenter.bintray.com/.error=
+https\://jcenter.bintray.com/.lastUpdated=1627136564546
+@default-bintray-sedmelluq-com.sedmelluq-https\://dl.bintray.com/sedmelluq/com.sedmelluq/.lastUpdated=1627136572842
+https\://m2.dv8tion.net/releases/.lastUpdated=1627136563699
